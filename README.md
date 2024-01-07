@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá, seja bem-vindo ao meu perfil!<br>
+  Olá, seja bem-vindo ao meu perfil! ✨<br>
 Me chamo Jéssica, tenho 24 anos, moro em São Paulo e estou iniciando na área de programação. Atualmente estou cursando <strong>Técnico em Informática para internet</strong> no <strong>Senac</strong>, estou busco uma oportunidade para ingressar no mercado de trabalho, já possuo boa noção de <strong>HTML</strong> e <strong>CSS</strong> e estou aprimorando meus conhecimentos em <strong>Javascript</strong> e <strong>C#</strong>. Por aqui irei compartilhar o que venho aprendendo e desenvolvendo nos cursos que estou fazendo, espero que gostem! :)<br>
 </p>
 
