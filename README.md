@@ -1,16 +1,26 @@
-### Hi there 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<!--
-**jessicasamppaio/jessicasamppaio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> 
+  Olá, seja bem-vindo ao meu perfil! Me chamo Jéssica, tenho 24 anos, moro em São Paulo e estou iniciando na área de programação. Atualmente estou cursando <strong>Técnico em Informática para internet</strong> no Senac, estou busco uma oportunidade para ingressar no mercado de trabalho, já possuo boa noção de <strong>HTML</strong> e <strong>CSS</strong> e estou aprimorando meus conhecimentos em <strong>Javascript</strong> e <strong>C#</strong>. Por aqui irei compartilhar o que venho aprendendo e desenvolvendo nos cursos que estou fazendo, espero que gostem! :)<br>
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+  🦄 Linguagens: JavaScript e C#
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  💼 Ferramentas: Visual Studio Code e GIT 
+</p>
+
+<p align="left">
+  💌 Você também pode me encontrar através das minhas redes sociais: ⤵️
+</p>
+
+<p align="left">
+  <a href="mailto:jessicaspf2@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <a href="www.linkedin.com/in/jessicasamppaio" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/cherryjesss" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+</p>
