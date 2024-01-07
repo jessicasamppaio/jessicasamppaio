@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://static.vecteezy.com/system/resources/previews/023/828/818/non_2x/retrowave-vintage-computer-80s-clipart-ai-generated-free-png.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
   Olá, seja bem-vindo ao meu perfil! ✨<br>
