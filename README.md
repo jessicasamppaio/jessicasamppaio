@@ -20,7 +20,7 @@ Me chamo Jéssica, tenho 24 anos, moro em São Paulo e estou iniciando na área 
 <p align="left">
   <a href="mailto:jessicaspf2@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
-  <a href="www.linkedin.com/in/jessicasamppaio" title="LinkedIn">
+  <a href="https://www.linkedin.com/jessicasamppaio" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
   <a href="https://www.instagram.com/cherryjesss" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
