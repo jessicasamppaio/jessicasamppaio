@@ -2,11 +2,11 @@
 
 <p align="left"> 
   Olá, seja bem-vindo ao meu perfil! ✨<br>
-Me chamo Jéssica, tenho 24 anos, moro em São Paulo e estou iniciando na área de programação, atualmente estou cursando <strong>Técnico em Informática para internet</strong> no <strong>Senac</strong>. Já possuo boa noção de <strong>HTML</strong> e <strong>CSS</strong> e estou aprimorando meus conhecimentos em <strong>Javascript</strong> e <strong>C#</strong>. Por aqui irei compartilhar o que venho aprendendo e desenvolvendo nos cursos que estou fazendo, espero que gostem! :)<br>
+Me chamo Jéssica, tenho 24 anos, moro em São Paulo e estou iniciando na área de programação, atualmente estou cursando <strong>Técnico em Informática para internet</strong> no <strong>Senac</strong>. Já possuo boa noção de <strong>HTML</strong> e <strong>CSS</strong> e estou aprimorando meus conhecimentos em <strong>Javascript</strong>. Por aqui irei compartilhar o que venho aprendendo e desenvolvendo nos cursos que estou fazendo, espero que gostem! :)<br>
 </p>
 
 <p align="left">
-  🦄 Linguagens: JavaScript, C#, HTML e CSS
+  🦄 Linguagens: JavaScript, HTML e CSS
 </p>
 
 <p align="left">
