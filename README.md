@@ -14,7 +14,7 @@ Me chamo Jéssica, tenho 24 anos, moro em São Paulo e estou iniciando na área 
 </p>
 
 <p align="left">
-  💌 Você também pode me encontrar através das minhas redes sociais ⤵️
+  💌 Você também pode me encontrar através das minhas redes sociais: ⤵️
 </p>
 
 <p align="left">
