@@ -6,7 +6,7 @@ Me chamo Jéssica, tenho 24 anos, moro em São Paulo e estou iniciando na área 
 </p>
 
 <p align="left">
-  🦄 Linguagens: JavaScript, HTML e CSS
+  👩🏻‍💻 Linguagens: JavaScript, HTML e CSS
 </p>
 
 <p align="left">
