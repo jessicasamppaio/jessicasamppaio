@@ -1,4 +1,3 @@
-![eu}(https://jessicasamppaio.github.io/portfolio/img/img-perfil-2.jpeg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=AB1AF7&random=false&width=435&lines=Ol%C3%A1%2C+eu+sou+a+J%C3%A9ssica!)](https://git.io/typing-svg)
 
