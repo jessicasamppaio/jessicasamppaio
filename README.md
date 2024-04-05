@@ -17,8 +17,7 @@ Atualmente estou cursando <strong>Análise e Desenvolvimento de Sistemas</strong
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo"  />
-  <img width="8" />
-    <br>
+  <img width="8" /><br><br>
 
   [![Portfolio](https://img.shields.io/badge/Portfólio-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://jessicasamppaio.github.io/portfolio)
 
