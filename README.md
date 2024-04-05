@@ -19,6 +19,8 @@ Atualmente estou cursando <strong>Análise e Desenvolvimento de Sistemas</strong
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo"  />
   <img width="8" />
 
+  [![Portfolio](https://img.shields.io/badge/Portfólio-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://jessicasamppaio.github.io/portfolio)
+
   <p align="left">
   💌 Você também pode me encontrar através das minhas redes sociais ⤵️
 </p>
@@ -30,8 +32,6 @@ Atualmente estou cursando <strong>Análise e Desenvolvimento de Sistemas</strong
   <a href="https://www.instagram.com/cherryjesss" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
 </p>
-
-[![Portfolio](https://img.shields.io/badge/Portfólio-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://jessicasamppaio.github.io/portfolio)
 
 <h3>GitHub Stats</h3>
 
