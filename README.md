@@ -19,15 +19,10 @@ Atualmente estou cursando <strong>Análise e Desenvolvimento de Sistemas</strong
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo"  />
   <img width="8" /><br><br>
   
-  [![Portfolio](https://img.shields.io/badge/Portfólio-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://jessicasamppaio.github.io/portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfólio-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://jessicasamppaio.github.io/portfolio) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jessicasamppaio/) 
+[![Instagram](https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white)](https://www.instagram.com/cherryjesss/)
 
-<p align="left">
-</a>
-  <a href="https://www.linkedin.com/in/jessicasamppaio" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
-  <a href="https://www.instagram.com/cherryjesss" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
-</p>
 
 <h3>GitHub Stats</h3>
 
