@@ -31,7 +31,7 @@ Atualmente estou cursando <strong>Análise e Desenvolvimento de Sistemas</strong
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
 </p>
 
-[![Portfolio](https://img.shields.io/badge/Portfólio-4285F4?style=for-the-badge&logo=github&logoColor=white)](https://jessicasamppaio.github.io/portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfólio-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://jessicasamppaio.github.io/portfolio)
 
 <h3>GitHub Stats</h3>
 
