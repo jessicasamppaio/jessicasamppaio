@@ -1,4 +1,4 @@
-<img align="right" alt="" height="300px" src="./4b3dbccebe89d56db66a87824c93db0e.jpg">
+<img align="right" alt="" height="300px" src="./img-nysekf.jpg">
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=AB1AF7&random=false&width=435&lines=Ol%C3%A1%2C+eu+sou+a+J%C3%A9ssica!)](https://git.io/typing-svg)
