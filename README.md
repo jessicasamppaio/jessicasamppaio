@@ -4,7 +4,7 @@
 
 <p align="left"> 
   Olá, seja bem-vindo ao meu perfil! ✨<br>
-Me chamo Jéssica, tenho 24 anos, moro em São Paulo e estou iniciando na área de programação, atualmente estou cursando <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>Uniasselvi</strong> e possuo especialização ténica em <strong>desenvolvimento Front-End</strong> pelo <strong>Senac</strong>. Já possuo boa noção de <strong>HTML</strong> e <strong>CSS</strong> e estou aprimorando meus conhecimentos em <strong>Javascript</strong>, <strong>React</strong> e <strong>SQL</strong>. Por aqui irei compartilhar o que venho aprendendo e desenvolvendo nos cursos que estou fazendo, espero que gostem! :)<br>
+Atualmente estou cursando <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>Uniasselvi</strong> e possuo especialização ténica em <strong>desenvolvimento Front-End</strong> pelo <strong>Senac</strong>. Já possuo boa noção de <strong>HTML</strong> e <strong>CSS</strong> e estou aprimorando meus conhecimentos em <strong>Javascript</strong>, <strong>React</strong> e <strong>SQL</strong>. Por aqui irei compartilhar o que venho aprendendo e desenvolvendo nos cursos que estou fazendo, espero que gostem! :)<br>
 </p>
 
 <p align="left">
