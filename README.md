@@ -21,10 +21,6 @@ Atualmente estou cursando <strong>Análise e Desenvolvimento de Sistemas</strong
   
   [![Portfolio](https://img.shields.io/badge/Portfólio-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://jessicasamppaio.github.io/portfolio)
 
-  <p align="left">
-  💌 Você também pode me encontrar através das minhas redes sociais ⤵️
-</p>
-
 <p align="left">
 </a>
   <a href="https://www.linkedin.com/in/jessicasamppaio" title="LinkedIn">
