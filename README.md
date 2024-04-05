@@ -1,5 +1,3 @@
-<img src="https://static.vecteezy.com/system/resources/previews/023/828/818/non_2x/retrowave-vintage-computer-80s-clipart-ai-generated-free-png.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=BB00B4&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+a+Jéssica+!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
 
 <p align="left"> 
