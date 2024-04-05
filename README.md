@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=BB00B4&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+a+Jéssica+!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=AB1AF7&random=false&width=435&lines=Ol%C3%A1%2C+eu+sou+a+J%C3%A9ssica!)](https://git.io/typing-svg)
 
 <p align="left"> 
 Atualmente estou cursando <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>Uniasselvi</strong> e possuo especialização ténica em <strong>desenvolvimento Front-End</strong> pelo <strong>Senac</strong>. Já possuo boa noção de <strong>HTML</strong> e <strong>CSS</strong> e estou aprimorando meus conhecimentos em <strong>Javascript</strong>, <strong>React</strong> e <strong>SQL</strong>. Por aqui irei compartilhar o que venho aprendendo e desenvolvendo nos cursos que estou fazendo, espero que gostem! :)<br>
