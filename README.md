@@ -19,25 +19,17 @@ Atualmente estou cursando <strong>Análise e Desenvolvimento de Sistemas</strong
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo"  />
   <img width="8" /><br><br>
   
-<table>
-  <tr>
-    <td>
-      <a href="https://jessicasamppaio.github.io/portfolio">
+<p align="left">
+    <a href="https://jessicasamppaio.github.io/portfolio" style="display:inline-block; width: 33%;">
         <img src="https://img.shields.io/badge/Portfólio-6f42c1?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio">
-      </a>
-    </td>
-    <td>
-      <a href="https://www.linkedin.com/in/jessicasamppaio">
+    </a>
+    <a href="https://www.linkedin.com/in/jessicasamppaio" style="display:inline-block; width: 33%;">
         <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
-      </a>
-    </td>
-    <td>
-      <a href="https://www.instagram.com/cherryjesss">
+    </a>
+    <a href="https://www.instagram.com/cherryjesss" style="display:inline-block; width: 33%;">
         <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram">
-      </a>
-    </td>
-  </tr>
-</table>
+    </a>
+</p>
 
 <h3>GitHub Stats</h3>
 
