@@ -4,26 +4,6 @@
 Atualmente estou cursando <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>Uniasselvi</strong> e possuo especialização ténica em <strong>desenvolvimento Front-End</strong> pelo <strong>Senac</strong>. Já possuo boa noção de <strong>HTML</strong> e <strong>CSS</strong> e estou aprimorando meus conhecimentos em <strong>Javascript</strong>, <strong>React</strong> e <strong>SQL</strong>. Por aqui irei compartilhar o que venho aprendendo e desenvolvendo nos cursos que estou fazendo, espero que gostem! :)<br>
 </p>
 
-<p align="left">
-  👩🏻‍💻 Linguagens: JavaScript, HTML e CSS
-</p>
-
-<p align="left">
-  💼 Ferramentas: Visual Studio Code e GIT 
-</p>
-
-<p align="left">
-  💌 Você também pode me encontrar através das minhas redes sociais ⤵️
-</p>
-
-<p align="left">
-</a>
-  <a href="https://www.linkedin.com/in/jessicasamppaio" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
-  <a href="https://www.instagram.com/cherryjesss" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
-</p>
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
   <img width="8" />
@@ -35,6 +15,18 @@ Atualmente estou cursando <strong>Análise e Desenvolvimento de Sistemas</strong
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo"  />
   <img width="8" />
+
+  <p align="left">
+  💌 Você também pode me encontrar através das minhas redes sociais ⤵️
+</p>
+
+<p align="left">
+</a>
+  <a href="https://www.linkedin.com/in/jessicasamppaio" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/cherryjesss" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+</p>
 
 <h3>GitHub Stats</h3>
 
